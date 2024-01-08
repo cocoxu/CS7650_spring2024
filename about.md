@@ -69,9 +69,10 @@ The written assignments will mostly be mathematical/computational.  You can scan
 The midterm will be similar in format to the written assignments (problem sets). It will be in-class and close-book after the spring break (there will be no make-up exam). Students are expected to attend every class during the semester, unless they have obtained official approval for absense from the Office of the Dean of Students.  We will set the exact date for midterm exam one month before the exam based on the class progress (e.g., student homework completion). 
 
 
-### Final Project - 25%
+### Final Project - 30%
 
 The final project is an open-ended assignment, with the goal of gaining experience applying the techniques presented in class to real-world datasets. Students should work in groups of 2-4. It is a good idea to discuss your planned project with the instructor to get feedback. The final project report should be 2-4 pages. The report should describe the problem you are solving, what data is being used, the proposed technique you are applying in addition to what baseline is used to compare against.
+
 
 The grading rubric for the final project is as follows:
 
@@ -83,9 +84,12 @@ The grading rubric for the final project is as follows:
 * Overall (1-5) 
 
 
-### Participation - 10%
+Students will also give presentations on recent research in class. 
 
-You will receive credits for giving presentations and engaging in discussion in class, and answering questions related to the homework on Piazza, acting politely and respectfully towards the teaching staff and other students in the class. 
+
+### Participation - 5%
+
+You will receive credits for engaging in discussion in class, and answering questions related to the homework on Piazza, acting politely and respectfully towards the teaching staff and other students in the class. 
 
 
 ## Academic Integrity
