@@ -11,7 +11,7 @@ Jan 8
   : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
   
 Jan 10
-: [Machine Learning Review - linear classification, Naive Bayes))](https://cocoxu.github.io/CS7650_spring2024/slides/lec2-ml-class.pdf)
+: [Machine Learning Review - linear classification](https://cocoxu.github.io/CS7650_spring2024/slides/lec2-ml-class.pdf)
   : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 11
