@@ -55,7 +55,7 @@ All homework will be rescaled proportionally into the final numerical grade, whi
 
 
 
-### Programming Assignments (Projects) - 30%
+### Programming Assignments (Projects) - 33%
 
 We plan to assign three programming assignments (besides a programming background test) that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [Numpy](https://numpy.org/) and [Pytorch](https://pytorch.org/).  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides easy access to GPUs. Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline.  If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
 
@@ -69,7 +69,7 @@ The written assignments will mostly be mathematical/computational.  You can scan
 The midterm will be similar in format to the written assignments (problem sets). It will be in-class and close-book after the spring break (there will be no make-up exam). Students are expected to attend every class during the semester, unless they have obtained official approval for absense from the Office of the Dean of Students.  We will set the exact date for midterm exam one month before the exam based on the class progress (e.g., student homework completion). 
 
 
-### Final Project - 30%
+### Final Project - 27%
 
 The final project is an open-ended assignment, with the goal of gaining experience applying the techniques presented in class to real-world datasets. Students should work in groups of 2-4. It is a good idea to discuss your planned project with the instructor to get feedback. The final project report should be 2-4 pages. The report should describe the problem you are solving, what data is being used, the proposed technique you are applying in addition to what baseline is used to compare against.
 
@@ -84,7 +84,7 @@ The grading rubric for the final project is as follows:
 * Overall (1-5) 
 
 
-Students will also give presentations on recent research in class. 
+Students will also give a short presentation on recent research in class. 
 
 
 ### Participation - 5%
