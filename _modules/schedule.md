@@ -21,8 +21,8 @@ Jan 15
 : no class - holiday
 
 Jan 17
-: [Machine Learning Review - mutliclass classification](https://cocoxu.github.io/CS7650_spring2024/slides/lec2-ml-class.pdf)
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+: [Machine Learning Review - mutliclass classification](https://cocoxu.github.io/CS7650_spring2024/slides/lec3-mcc.pdf)
+  : [Eisenstein 2.0-2.5, 4.1, 4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 19
 : **[Project 0 due](https://colab.research.google.com/drive/1ZmtPv3fU2A-ZhxxEbK6D1NHEheqIFDNq?usp=sharing)**
