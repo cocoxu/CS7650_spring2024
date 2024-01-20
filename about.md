@@ -42,7 +42,7 @@ This is an advanced-level AI class that covers deep learning and other machine l
 
 There will be a math background test (due in the 1st week) and a programming homework (due in the 2nd week) at the beginning of the semester. If you have difficulty to handle them, you should expect a lot of extra work and challenges to catch up -- we strongly suggest you wait and take this class in a later semester. 
 
-(**For students on the wait list:** we don’t have any additional information on whether you will be able to enroll in the course, but if you plan to take the class, please complete and submit Problem Set 0 by the due time (late penalty will apply if submitted later). If you get off the wait list, you will be automatically added to Gradescope after about a day. You can also post a private message on [Piazza](https://piazza.com/class/l6vgipz0vsm1kk) to get the access code to Gradescope. If you still cannot access Gradescope by the due date, please email your submission to the instructor and all TAs.)
+(**For students on the wait list:** we don’t have any additional information on whether you will be able to enroll in the course, but if you plan to take the class, please complete and submit Problem Set 0 by the due time (late penalty will apply if submitted later). If you get off the wait list, you will be automatically added to Gradescope after about a day. You can also post a private message on Piazza to get the access code to Gradescope. If you still cannot access Gradescope by the due date, please email your submission to the instructor and all TAs.)
 
 
 ## Assignments / Grading
