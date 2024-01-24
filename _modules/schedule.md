@@ -32,7 +32,7 @@ Jan 22
   : [Eisenstein 2.0-2.5, 4.1, 4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 24
-: [Neural Networks - Feedforward](https://cocoxu.github.io/CS7650_spring2024/slides/lec4-nn.pdf)
+: [Neural Networks - Feedforward, optimization](https://cocoxu.github.io/CS7650_spring2024/slides/lec4-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
 
 Jan 29
@@ -41,3 +41,17 @@ Jan 29
 Jan 29
 : [Word Embeddings](https://cocoxu.github.io/CS7650_spring2024/slides/lec5-word2vec.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
+
+Jan 31
+: [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS7650_spring2024/slides/lec6-seq1.pdf)
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
+Feb 5
+: [Conditional Random Fields](https://cocoxu.github.io/CS4650_spring2023/slides/lec7-seq2.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Feb 8
+: **[Project 1 due](https://colab.research.google.com/drive/1GILLRMPL5CA8IfTnwDbif0x5L3RlWugm?usp=sharing)
+
+
+
