@@ -51,7 +51,7 @@ Feb 5
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 8
-: **[Project 1 due](https://colab.research.google.com/drive/1GILLRMPL5CA8IfTnwDbif0x5L3RlWugm?usp=sharing)
+: **[Project 1 due](https://colab.research.google.com/drive/1GILLRMPL5CA8IfTnwDbif0x5L3RlWugm?usp=sharing)**
 
 
 
