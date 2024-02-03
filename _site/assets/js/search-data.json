@@ -55,7 +55,7 @@
   },"9": {
     "doc": "Calendar",
     "title": "Schedule (subject to change as the term progresses)",
-    "content": "Resource PyTorch Tutorial (w/ links to Colab notebook) Jan 8 Course Overview Eisenstein 1 Jan 10 Machine Learning Review - linear classification Eisenstein 1 Jan 11 Problem Set 0 due Jan 15 no class - holiday Jan 17 Machine Learning Review - logistic regression, perceptron, SVM Eisenstein 2.0-2.5, 4.1, 4.3-4.5, J+M 5 Jan 19 Project 0 due Jan 22 Machine Learning Review - mutliclass classification Eisenstein 2.0-2.5, 4.1, 4.3-4.5, J+M 5 Jan 24 Neural Networks - Feedforward Eisenstein 2.6, 3.1-3.3, J+M 7, Goldberg 1-4 Jan 29 Problem Set 1 due Jan 29 Word Embeddings Eisenstein 3.3.4, 14.5, 14.6, J+M 6, Goldberg 5 ",
+    "content": "Resource PyTorch Tutorial (w/ links to Colab notebook) Jan 8 Course Overview Eisenstein 1 Jan 10 Machine Learning Review - linear classification Eisenstein 1 Jan 11 Problem Set 0 due Jan 15 no class - holiday Jan 17 Machine Learning Review - logistic regression, perceptron, SVM Eisenstein 2.0-2.5, 4.1, 4.3-4.5, J+M 5 Jan 19 Project 0 due Jan 22 Machine Learning Review - mutliclass classification Eisenstein 2.0-2.5, 4.1, 4.3-4.5, J+M 5 Jan 24 Neural Networks - Feedforward, optimization Eisenstein 2.6, 3.1-3.3, J+M 7, Goldberg 1-4 Jan 29 Problem Set 1 due Jan 29 Word Embeddings Eisenstein 3.3.4, 14.5, 14.6, J+M 6, Goldberg 5 Jan 31 Sequence Models - HMM, Viterbi [notes] Eisenstein 7.0-7.4, J+M 8 Feb 5 Conditional Random Fields Eisenstein 7.5, 8.3 Feb 8 Project 1 due ",
     "url": "http://localhost:4000/CS7650_spring2024/calendar/#schedule-subject-to-change-as-the-term-progresses",
     "relUrl": "/calendar/#schedule-subject-to-change-as-the-term-progresses"
   },"10": {
@@ -73,7 +73,7 @@
   },"12": {
     "doc": "CS 7650",
     "title": "Schedule (subject to change as the term progresses)",
-    "content": "Resource PyTorch Tutorial (w/ links to Colab notebook) Jan 8 Course Overview Eisenstein 1 Jan 10 Machine Learning Review - linear classification Eisenstein 1 Jan 11 Problem Set 0 due Jan 15 no class - holiday Jan 17 Machine Learning Review - logistic regression, perceptron, SVM Eisenstein 2.0-2.5, 4.1, 4.3-4.5, J+M 5 Jan 19 Project 0 due Jan 22 Machine Learning Review - mutliclass classification Eisenstein 2.0-2.5, 4.1, 4.3-4.5, J+M 5 Jan 24 Neural Networks - Feedforward Eisenstein 2.6, 3.1-3.3, J+M 7, Goldberg 1-4 Jan 29 Problem Set 1 due Jan 29 Word Embeddings Eisenstein 3.3.4, 14.5, 14.6, J+M 6, Goldberg 5 ",
+    "content": "Resource PyTorch Tutorial (w/ links to Colab notebook) Jan 8 Course Overview Eisenstein 1 Jan 10 Machine Learning Review - linear classification Eisenstein 1 Jan 11 Problem Set 0 due Jan 15 no class - holiday Jan 17 Machine Learning Review - logistic regression, perceptron, SVM Eisenstein 2.0-2.5, 4.1, 4.3-4.5, J+M 5 Jan 19 Project 0 due Jan 22 Machine Learning Review - mutliclass classification Eisenstein 2.0-2.5, 4.1, 4.3-4.5, J+M 5 Jan 24 Neural Networks - Feedforward, optimization Eisenstein 2.6, 3.1-3.3, J+M 7, Goldberg 1-4 Jan 29 Problem Set 1 due Jan 29 Word Embeddings Eisenstein 3.3.4, 14.5, 14.6, J+M 6, Goldberg 5 Jan 31 Sequence Models - HMM, Viterbi [notes] Eisenstein 7.0-7.4, J+M 8 Feb 5 Conditional Random Fields Eisenstein 7.5, 8.3 Feb 8 Project 1 due ",
     "url": "http://localhost:4000/CS7650_spring2024/#schedule-subject-to-change-as-the-term-progresses",
     "relUrl": "/#schedule-subject-to-change-as-the-term-progresses"
   },"13": {
