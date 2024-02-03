@@ -43,11 +43,11 @@ Jan 29
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
 
 Jan 31
-: [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS7650_spring2024/slides/lec6-seq1.pdf)
+: [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS7650_spring2024/slides/lec6-seq1.pdf) [notes](https://cocoxu.github.io/CS7650_spring2024/slides/lec6-seq1-notes.pdf)
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 Feb 5
-: [Conditional Random Fields](https://cocoxu.github.io/CS4650_spring2023/slides/lec7-seq2.pdf)
+: [Conditional Random Fields](https://cocoxu.github.io/CS7650_spring2024/slides/lec7-seq2.pdf)
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 8
