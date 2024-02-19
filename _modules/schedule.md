@@ -72,7 +72,7 @@ Feb 21
 : [Attention+ Tokenization](https://cocoxu.github.io/CS7650_spring2024/slides/lec11-attention-nmt.pdf)
   : [Wu+16 Google NMT](https://arxiv.org/abs/1609.08144), [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
 
-Feb 23
+Feb 26
 : **[Project 2 due](https://colab.research.google.com/drive/18RWiJPkbXO-lhV6dPGHmNLUplhdaEEir?usp=sharing)**
 
 Feb 26
