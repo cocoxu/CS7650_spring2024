@@ -58,23 +58,30 @@ Feb 8
 : **[Project 1 due](https://colab.research.google.com/drive/1GILLRMPL5CA8IfTnwDbif0x5L3RlWugm?usp=sharing)**
 
 Feb 12
+: no class 
+
+Feb 14
 : [Convolutional Neural Networks + Neural CRFs](https://cocoxu.github.io/CS7650_spring2024/slides/lec9-cnn.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
 
-Feb 14
-: [Encoder-Decoder + Attention](https://cocoxu.github.io/CS7650_spring2024/slides/lec10-seq2seq.pdf)
+Feb 19
+: [Encoder-Decoder + MT](https://cocoxu.github.io/CS7650_spring2024/slides/lec10-seq2seq.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Feb 19
-: [Neural MT + Tokenization](https://cocoxu.github.io/CS7650_spring2024/slides/lec11-nmt-tokenization.pdf)
-  : [Wu+16 Google NMT](https://arxiv.org/abs/1609.08144), [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
-  
 Feb 21
-: [Transformer](https://cocoxu.github.io/CS7650_spring2024/slides/lec12-transformer.pdf)
-  : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
+: [Attention+ Tokenization](https://cocoxu.github.io/CS7650_spring2024/slides/lec11-attention-nmt.pdf)
+  : [Wu+16 Google NMT](https://arxiv.org/abs/1609.08144), [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
 
 Feb 23
 : **[Project 2 due](https://colab.research.google.com/drive/18RWiJPkbXO-lhV6dPGHmNLUplhdaEEir?usp=sharing)**
+
+Feb 26
+: no class 
+  
+Feb 28
+: [Transformer](https://cocoxu.github.io/CS7650_spring2024/slides/lec12-transformer.pdf)
+  : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
+
 
 
 
