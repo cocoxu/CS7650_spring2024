@@ -91,7 +91,7 @@ Mar 6
 Mar 11
 : in-class presentation #3
 
-Mar 14
+Mar 12
 : **[Problem Set 2 due](https://github.com/cocoxu/CS7650_spring2024_projects/blob/master/Problem_Set_2/CS7650_PS2.pdf)**
 
 
