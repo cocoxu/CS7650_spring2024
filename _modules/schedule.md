@@ -82,6 +82,17 @@ Feb 28
 : [Transformer](https://cocoxu.github.io/CS7650_spring2024/slides/lec12-transformer.pdf)
   : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
 
+Mar 4
+: in-class presentation #1
+
+Mar 6
+: in-class presentation #2
+
+Mar 11
+: in-class presentation #3
+
+Mar 14
+: **[Problem Set 2 due](https://github.com/cocoxu/CS7650_spring2024_projects/blob/master/Problem_Set_2/CS7650_PS2.pdf)**
 
 
 
