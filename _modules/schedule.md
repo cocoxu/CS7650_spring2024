@@ -94,6 +94,8 @@ Mar 11
 Mar 12
 : **[Problem Set 2 due](https://github.com/cocoxu/CS7650_spring2024_projects/blob/master/Problem_Set_2/CS7650_PS2.pdf)**
 
+Apr 2
+: **[Project 3 due](https://colab.research.google.com/drive/10Q0S4pQmYpOu-xwbGaHBNci_HJqjbk2S?usp=sharing)**
 
 
 
