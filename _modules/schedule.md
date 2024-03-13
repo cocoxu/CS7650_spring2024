@@ -94,6 +94,11 @@ Mar 11
 Mar 12
 : **[Problem Set 2 due](https://github.com/cocoxu/CS7650_spring2024_projects/blob/master/Problem_Set_2/CS7650_PS2.pdf)**
 
+Mar 13
+: [Pretrained Language Models (part 1)](https://cocoxu.github.io/CS7650_spring2024/slides/lec13-pt1.pdf)
+  : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+
+
 Apr 2
 : **[Project 3 due](https://colab.research.google.com/drive/10Q0S4pQmYpOu-xwbGaHBNci_HJqjbk2S?usp=sharing)**
 
