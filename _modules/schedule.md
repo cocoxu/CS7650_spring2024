@@ -98,6 +98,11 @@ Mar 13
 : [Pretrained Language Models (part 1)](https://cocoxu.github.io/CS7650_spring2024/slides/lec13-pt1.pdf), [Midterm Review](https://cocoxu.github.io/CS7650_spring2024/slides/lec00-midterm-review.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
+Mar 25
+: [Pretrained Language Models (part 2) + Ethics](https://cocoxu.github.io/CS7650_spring2024/slides/lec14-pt2.pdf)
+  : [BART](https://arxiv.org/pdf/1910.13461.pdf), [T5](https://arxiv.org/pdf/1910.10683.pdf) 
+
+
 Apr 2
 : **[Project 3 due](https://colab.research.google.com/drive/10Q0S4pQmYpOu-xwbGaHBNci_HJqjbk2S?usp=sharing)**
 
