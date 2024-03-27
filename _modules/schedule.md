@@ -102,6 +102,9 @@ Mar 25
 : [Pretrained Language Models (part 2) + Ethics](https://cocoxu.github.io/CS7650_spring2024/slides/lec14-pt2.pdf)
   : [BART](https://arxiv.org/pdf/1910.13461.pdf), [T5](https://arxiv.org/pdf/1910.10683.pdf) 
 
+Mar 27
+: [Pretrained Language Models (part 3)](https://cocoxu.github.io/CS7650_spring2024/slides/lec15-pt3.pdf)
+  : [PaLM](https://arxiv.org/pdf/2204.02311.pdf) 
 
 Apr 2
 : **[Project 3 due](https://colab.research.google.com/drive/10Q0S4pQmYpOu-xwbGaHBNci_HJqjbk2S?usp=sharing)**
