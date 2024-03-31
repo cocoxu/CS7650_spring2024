@@ -79,7 +79,7 @@ Feb 26
 : no class 
   
 Feb 28
-: [Transformer](https://cocoxu.github.io/CS7650_spring2024/slides/lec12-transformer.pdf)
+: [Transformer](https://cocoxu.github.io/CS7650_spring2024/slides/lec12-transformer.pdf), [Course Project](https://cocoxu.github.io/CS7650_spring2024/slides/lec0-project.pdf)
   : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
 
 Mar 4
