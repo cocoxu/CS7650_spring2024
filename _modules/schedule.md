@@ -105,6 +105,10 @@ Mar 25
 Mar 27
 : [Pretrained Language Models (part 3)](https://cocoxu.github.io/CS7650_spring2024/slides/lec15-pt3.pdf)
   : [PaLM](https://arxiv.org/pdf/2204.02311.pdf) 
+  
+Apr 1
+: [Multilingual / Cross-lingual Models](https://cocoxu.github.io/CS7650_spring2024/slides/lec16-multilingual.pdf)
+  : [XLM-RoBERTa](https://arxiv.org/pdf/1911.02116.pdf), [Aya](https://arxiv.org/pdf/2402.07827.pdf)
 
 Apr 2
 : **[Project 3 due](https://colab.research.google.com/drive/10Q0S4pQmYpOu-xwbGaHBNci_HJqjbk2S?usp=sharing)**
